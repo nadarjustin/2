@@ -414,6 +414,18 @@ i.like{
     margin-top: 6%;
     text-transform: uppercase;
 }
+.youtube{
+	background: url(../images/landscape/landsape_21.jpg) no-repeat center top;
+	background-position: -59px -900px;
+	
+}
+.youtube_logo{
+	background: url(../images/youtube.png)  center top;
+}
+
+.youtube_logo:hover{
+	background: url(../images/youtube_hover.png)  center top;
+}
 /*--team--*/
 #team-section {
     display: block;
