@@ -419,12 +419,15 @@ i.like{
 	background-position: -59px -900px;
 	
 }
-.youtube_logo{
-	background: url(../images/youtube.png)  center top;
+ul.social li a i.youtube_logo{
+	background: url(../images/youtube.png)  no-repeat center ;
+
+	
+
 }
 
-.youtube_logo:hover{
-	background: url(../images/youtube_hover.png)  center top;
+ul.social li a i.youtube_logo:hover{
+	background: url(../images/youtube_hover.png)  center no-repeat ;
 }
 /*--team--*/
 #team-section {
